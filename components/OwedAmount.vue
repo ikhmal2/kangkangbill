@@ -1,8 +1,6 @@
 <template>
 	<div>
-		<Topbar />
-		<slot>
-		</slot>
+		Overall, you are owed RM112.35
 	</div>
 </template>
 
