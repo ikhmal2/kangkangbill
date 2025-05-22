@@ -1,8 +1,9 @@
 <template>
-	<div>
-		<Topbar />
+	<div class="flex flex-col">
+		<TopBar />
 		<slot>
 		</slot>
+		<Footer />
 	</div>
 </template>
 
