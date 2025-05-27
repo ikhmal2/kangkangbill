@@ -62,4 +62,9 @@ export const groupList: GroupCollection[] = [
     participants: friendsSettled,
     amount: amountCalc(friendsSettled),
   },
+  {
+    name: "Femboy Hunt",
+    participants: friendsSettled,
+    amount: amountCalc(friendsSettled),
+  },
 ];

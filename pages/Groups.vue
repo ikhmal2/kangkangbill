@@ -10,7 +10,7 @@
 			</div>
 		</section>
 
-		<section class="pt-8">
+		<section class="pt-8 pb-10">
 			<div class="flex">
 				<h4>Previosly settled groups</h4>
 				<UButton @click="showSettledGroup = !showSettledGroup" size="sm" variant="ghost">{{
